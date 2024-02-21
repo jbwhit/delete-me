@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "delete-me"
+  site-url: "https://jbwhit.github.io/delete-me"
+  description: "just do it"
+  repo-branch: main
+  repo-url: "https://github.com/jbwhit/delete-me"
